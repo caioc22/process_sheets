@@ -107,3 +107,32 @@ dre = {
     'Lucro ou Prejuízo Líquido do Exercício': [],
     'EBITDA': ['Lucro líquido', 'Depreciação', 'Amortização']
 }
+
+aleatorio = [
+    'contrato', 'assinatura', 'procuração', 'declaração', 'protocolo', 
+    'comunicado', 'protocolo', 'requerimento', 'solicitação', 'autorização',
+    'documento', 'apresentação', 'comprovante', 'identidade', 'passaporte', 
+    'visto', 'carteira', 'trabalho', 'diploma', 'certidão',
+    'informação', 'atendimento', 'serviço', 'dúvida', 'orientação',
+    'despacho', 'arquivamento', 'prorrogação', 'renovação', 'convocação',
+    'recurso', 'procedimento', 'administrativo', 'juntada', 'remessa',
+    'resposta', 'ofício', 'memorando', 'comunicado', 'aviso',
+    'trâmite', 'processual', 'contencioso', 'instrução', 'processo',
+    'jurídico', 'judicial', 'audiência', 'testemunho', 'acordo',
+    'interrogatório', 'intimação', 'protesto', 'reclamação', 'notificação',
+    'embargos', 'apelação', 'agravo', 'instrumento', 'recurso',
+    'extrajudicial', 'cartório', 'certificação', 'autenticação', 'protesto',
+    'tabelião', 'escrevente', 'registro', 'averbação', 'procuração',
+    'escritura', 'reconhecimento', 'assinatura', 'transcrição', 'transferência',
+    'contrato', 'arrendamento', 'locação', 'compra', 'venda',
+    'pagamento', 'parcelamento', 'financiamento', 'apólice', 'seguro',
+    'cobrança', 'indicação', 'indisponibilidade', 'oneração', 'penhora',
+    'execução', 'liquidação', 'termo', 'recebimento', 'entrega',
+    'extravio', 'perda', 'roubo', 'furto', 'indenização',
+    'responsabilidade', 'civil', 'processo', 'administrativo', 'improbidade',
+    'conduta', 'falta', 'ética', 'processo', 'disciplinar',
+    'sindicância', 'correição', 'acesso', 'informação', 'transparência',
+    'ouvidoria', 'atendimento', 'defensoria', 'advocacia', 'judiciária',
+    'consultoria', 'jurídica', 'procuradoria', 'fazenda', 'nacional',
+    'estadual', 'municipal', 'comissão', 'processante', 'perícia'
+]
